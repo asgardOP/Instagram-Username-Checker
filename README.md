@@ -36,4 +36,4 @@ If you want to turn the code into .exe file, just open termnal and run this code
 
 This app was created by Asgard. The design, functionality, and code are protected by copyright. Unauthorized reproduction or distribution of the app or its components is prohibited.
 
-For any inquiries or permissions, please contact the author via Instagram: @3.9.9.6. or Telegram: @asgard_0s
+For any inquiries or permissions, please contact the author via Instagram: @3.9.9.6. or Telegram: @asgard_0
