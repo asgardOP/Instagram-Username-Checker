@@ -4,15 +4,15 @@ Author: Asgard Instagram: @3.9.9.6
 
 Telegram: @asgard_0
 
-Description
+Description:
 
 The Instagram Username Checker App is a simple and efficient tool designed to help you check the availability of Instagram usernames. The app allows you to generate a list of random usernames based on your desired length and quantity and then checks if those usernames are available or taken on Instagram. If a username is available, the app can automatically send the result to a specified Telegram bot.
 
-Features
+Features:
 
 Username Generation: Generate random usernames by specifying the length and quantity. Username Checking: Check the availability of Instagram usernames. Telegram Notification: Automatically send available usernames to a specified Telegram bot.
 
-Usage Instructions
+Usage Instructions:
 
 Set Telegram Bot Information:
 
@@ -26,7 +26,7 @@ After generating the usernames, click the "Check Usernames" button to start chec
 
 If you want to turn the code into .exe file, just open termnal and run this code: python -m PyInstaller --onefile --windowed --icon=IUC.ico IUC.py
 
-Copyright Information
+Copyright Information:
 
 This app was created by Asgard. The design, functionality, and code are protected by copyright. Unauthorized reproduction or distribution of the app or its components is prohibited.
 
