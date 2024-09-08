@@ -70,7 +70,7 @@ def check_usernames():
         result_area.update_idletasks()
         progress['value'] = (index + 1) / total_usernames * 100
         progress.update()
-        sleep(1)  # Optional delay between requests
+        sleep(.5)  # Optional delay between requests
 
     for index, user in enumerate(usernames):
         if stop_event.is_set():
